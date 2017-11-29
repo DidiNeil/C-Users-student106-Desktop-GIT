@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
+// Coucou
+
 public class Game_of_life : DualBehaviour
 {
     #region Public Members
